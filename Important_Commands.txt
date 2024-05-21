@@ -1,0 +1,9 @@
+Activate virtual environment
+D:\IEL\examshelf> exams\Scripts\activate	
+
+Runserver
+python manage.py runserver (D:\IEL\examshelf\examsproject> python manage.py runserver)
+
+
+Path to pgAdmin4
+"C:\Program Files\PostgreSQL\16\pgAdmin 4\web\pgAdmin4.py"
